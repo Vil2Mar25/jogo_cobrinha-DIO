@@ -1,4 +1,5 @@
 body{
+    background-image: url(amb.jpg);
     display:flex;
     flex-direction: row;
     text-align: center;
